@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on a Security Reasearch
 - 🌱 I’m currently learning automation💻 
-- 👯 I’m looking for mentors to learning from them
+- 👯 I’m looking for mentors to learn from them
 - 👨‍💻 I'm System Administrator at [Vanisco][work] 
 
 
