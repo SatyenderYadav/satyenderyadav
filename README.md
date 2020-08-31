@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on a Security Reasearch
 - 🌱 I’m currently learning automation💻 
 - 👯 I’m looking for mentors to learning from them
-- 👨‍💻 I'm System Administrator at [Vanisco][https://vanisco.in] 
+- 👨‍💻 I'm System Administrator at [Vanisco][work] 
 
 
 
@@ -54,5 +54,4 @@
 [youtube]: https://www.youtube.com/channel/UCe01y_RN-B-sL6ZZlnxMACA
 [instagram]: https://instagram.com/_l3v1ath4n_
 [linkedin]: https://www.linkedin.com/in/satyenderyadav032035/
-
-
+[work]: https://vanisco.in
